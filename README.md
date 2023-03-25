@@ -2,7 +2,7 @@
 This repository contains the firmware for the esp32 + DWM300 Tag and Anchor.
 
 ## Description 
-This was used in the [WVR Glove]() as the alternative tracking solution, since no VR hardware was not used.<br/>
+This was used in the [WVR Glove](https://github.com/Wbiu/WVR-GLOVE-Firmware) as the alternative tracking solution, since no VR hardware was not used.<br/>
 The DWM3000 API from  [Makersfabs](https://github.com/Makerfabs/Makerfabs-ESP32-UWB-DW3000) was used and 5 Of the UWM3000 are at least needed.
 
 
